@@ -1,0 +1,44 @@
+[
+    {
+      "id": 0,
+      "name": "Calabrese Broccoli",
+      "category": "Vegetable",
+      "price": 21.0,
+      "currency": "USD"
+    },
+    {
+      "id": 1,
+      "name": "Fresh Corn",
+      "category": "Vegetable",
+      "price": 18.0,
+      "currency": "USD"
+    },
+    {
+      "id": 2,
+      "name": "Dried Pistachio",
+      "category": "Nuts",
+      "price": 48.0,
+      "currency": "USD"
+    },
+    {
+      "id": 3,
+      "name": "Vegan Red Tomato",
+      "category": "Vegetable",
+      "price": 9.37,
+      "currency": "USD"
+    },
+    {
+      "id": 4,
+      "name": "Organic Almonds",
+      "category": "Nuts",
+      "price": 18.0,
+      "currency": "USD"
+    },
+    {
+      "id": 5,
+      "name": "Brown Hazelnut",
+      "category": "Nuts",
+      "price": 34.0,
+      "currency": "USD"
+    }
+  ]
